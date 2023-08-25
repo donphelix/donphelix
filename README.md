@@ -13,8 +13,12 @@ Welcome to the mystical realm of my GitHub abode! As a seasoned **Enchanter of S
 - **Chronicles of Versioning:** Git
 - **Alchemical DevOps:** Docker, Jenkins
 
+## 🏆 GitHub Trophies
+
+[<img src="https://github-profile-trophy.vercel.app/?username=donphelix&column=8&theme=gruvbox" />]()
 <!--
 ## 📜 Tome of Feats
+
 
 ### 🌟 Elixir of Project X
 Behold, a dynamic web incantation crafted with Laravel and React. Witness my mastery over user-friendly interfaces and arcane arts.
