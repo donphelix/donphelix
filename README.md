@@ -4,6 +4,15 @@
 
 Welcome to the mystical realm of my GitHub abode! As a seasoned **Enchanter of Software**, I conjure elegant solutions and weave intricate applications. Traverse with me through the tapestry of my arcane abilities:
 
+## 🏆 Whispers of Accomplishments
+
+[<img src="https://github-profile-trophy.vercel.app/?username=donphelix&column=8&theme=gruvbox" />]()
+
+<!--
+- Commanded a fellowship of developers, uniting their talents to birth a monumental creation. It brought enlightenment to users and treasure to stakeholders.
+- Wielded the Silver Quill of Query Optimization, unearthing hidden efficiencies in a grand PHP saga. The result? A 30% surge in performance. 
+-->
+
 ## 🛡️ Enchanted Arsenal
 
 - **Tongues of Power:** PHP, Python, Java
@@ -26,15 +35,6 @@ A magnum opus of Python, revealing my dominion over backend realms, API oracles,
 
 ### 📚 The Codex of the Unseen
 Explore my cryptic website, an enigma forged from the raw elements of HTML, CSS, and JavaScript. It mirrors my essence and prowess. 
--->
-
-## 🏆 Whispers of Accomplishments
-
-[<img src="https://github-profile-trophy.vercel.app/?username=donphelix&column=8&theme=gruvbox" />]()
-
-<!--
-- Commanded a fellowship of developers, uniting their talents to birth a monumental creation. It brought enlightenment to users and treasure to stakeholders.
-- Wielded the Silver Quill of Query Optimization, unearthing hidden efficiencies in a grand PHP saga. The result? A 30% surge in performance. 
 -->
 
 ## 🌟 Summoning the Nexus
