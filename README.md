@@ -16,7 +16,7 @@ Welcome to the mystical realm of my GitHub abode! As a seasoned **Enchanter of S
 ## 🛡️ Enchanted Arsenal
 
 - **Tongues of Power:** PHP, Python, Java
-- **Arcane Frameworks:** Laravel, React
+- **Arcane Frameworks:** Laravel, Spring Boot, Flutter, Vue, React, angular
 - **Rituals of Frontend:** Vanilla JavaScript, HTML5, CSS3
 - **Divinations of Database:** MySQL, MongoDB
 - **Chronicles of Versioning:** Git
