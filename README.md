@@ -1,6 +1,8 @@
-# 👋 Hello, I'm Don Phelix
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
-🔧 Software Developer | Digital Solutions Architect
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Don Phelix</h1>
+<h3 align="center">🔧 Software Developer | Digital Solutions Architect</h3>
 
 ## 🌐 Connect with Me
 
