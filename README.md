@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <a href="#">
-    <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="80%" style="border-radius: 10px; max-width: 500px; height: auto; display: block; margin: 0 auto;">
+    <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" style="border-radius: 10px; max-width: 500px; height: auto; display: block; margin: 0 auto;">
 </a>
 
 <!-- Title and Subtitle -->
