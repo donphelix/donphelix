@@ -10,7 +10,6 @@
 <!-- Previous accounts -->
 <h2 style="font-family: Arial, sans-serif;">Other Contributions</h2>
 <p style="font-family: Arial, sans-serif; font-size: 1.1em;">
-    GH <a href="https://github.com/dondevteam" style="color: #0073e6; text-decoration: none;">Don Dev Team</a><br>
     <span style="font-size: 1.2em;">🔗</span> 
     <a href="https://github.com/dondevteam" style="color: #0073e6; text-decoration: none;">Check out my old GitHub profile</a>
 </p>
