@@ -9,8 +9,9 @@
 
 <!-- Previous accounts -->
 <h2 style="font-family: Arial, sans-serif;">Other Contributions</h2>
-<p align="center">
-    I have moved from @dondevteam
+<p style="font-family: Arial, sans-serif; font-size: 1.1em;">
+    GH <a href="https://github.com/dondevteam" style="color: #0073e6; text-decoration: none;">Don Dev Team</a>  
+🔗 [Check out my old GitHub profile](https://github.com/dondevteam)
 </p>
 
 
