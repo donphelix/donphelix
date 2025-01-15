@@ -7,6 +7,14 @@
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Don Phelix</h1>
 <h3 align="center" style="color: #555; font-family: Arial, sans-serif; font-weight: normal; margin-top: -10px;">🔧 Software Developer | Digital Solutions Architect</h3>
 
+<!-- Previous accounts -->
+<h2 style="font-family: Arial, sans-serif;">Other Contributions</h2>
+<p align="center">
+    I have moved from @dondevteam
+</p>
+
+
+
 <!-- Connect Section -->
 <h2 style="font-family: Arial, sans-serif;">🌐 Connect with Me</h2>
 <p style="font-family: Arial, sans-serif; font-size: 1.1em;">
