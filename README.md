@@ -7,29 +7,6 @@
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Don Phelix</h1>
 <h3 align="center" style="color: #555; font-family: Arial, sans-serif; font-weight: normal; margin-top: -10px;">🔧 Software Developer </h3>
 
-<!-- Previous accounts 
-<h2 style="font-family: Arial, sans-serif;">Other Contributions</h2>
-<p style="font-family: Arial, sans-serif; font-size: 1.1em;">
-    <span style="font-size: 1.2em;">🔗</span> 
-    <a href="https://github.com/dondevteam" style="color: #0073e6; text-decoration: none;">Check out my old GitHub profile</a>
-</p>
--->
-
-<!-- Connect Section -->
-<!-- <h2 style="font-family: Arial, sans-serif;">🌐 Connect with Me</h2>
-    <p style="font-family: Arial, sans-serif; font-size: 1.1em;">
-        <!-- 🌍 <a href="https://donphelix.com" style="color: #0073e6; text-decoration: none;">Website</a>  -->
-        📧 <a href="mailto:sawigadon@gmail.com" style="color: #0073e6; text-decoration: none;">Email</a>
-    </p> -->
-
-<!-- Achievements Section 
-<h2 align="center" style="font-family: Arial, sans-serif;">🏆 Achievements</h2>
-<p align="center">
-    <a href="https://github.com/donphelix">
-        <img src="https://github-profile-trophy.vercel.app/?username=donphelix&column=8&theme=gruvbox" alt="Trophy showcase" style="width: 80%; max-width: 600px; border-radius: 10px;">
-    </a>
-</p> 
--->
 
 ## 🚀 Languages and Tools:
 
