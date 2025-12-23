@@ -3,11 +3,6 @@
     <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" style="border-radius: 10px; max-width: 500px; height: auto; display: block; margin: 0 auto;">
 </a>
 
-<!-- Title and Subtitle -->
-<h1 align="center" style="font-family: Arial, sans-serif;">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Don Phelix</h1>
-<h3 align="center" style="color: #555; font-family: Arial, sans-serif; font-weight: normal; margin-top: -10px;">🔧 Software Developer </h3>
-
-
 ## 🚀 Languages and Tools:
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
