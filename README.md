@@ -3,7 +3,6 @@
     <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" style="border-radius: 10px; max-width: 500px; height: auto; display: block; margin: 0 auto;">
 </a>
 
-## 🚀 Languages and Tools:
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)](#)
@@ -20,5 +19,3 @@
 [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7952B3)](#) 
 
-
-<p style="font-family: Arial, sans-serif; font-size: 1.2em; margin-top: 20px;">Join me on this journey of building great things with technology!</p>
